@@ -1,8 +1,6 @@
 import sys
 import itertools
 
-solutions = {}
-
 
 class Idfentifier:
     def __init__(self, codes):
